@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+.table{
+	height:50px;
+	width:700px;
+}
+.heading{
+	background-color:#E94921;
+}
+.firstrow{
+	background-color:#E39481;
+}
+.secondrow{
+	background-color:#F1C7BC;
+}
+.finalrow{
+	background-color:#CEC9C8;
+}
+
+
+
+
